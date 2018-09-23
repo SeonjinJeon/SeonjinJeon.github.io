@@ -1,21 +1,20 @@
 # Site/SEO settings
-email: 
+email: wjstjswls123@gmail.com
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-title: Trophy
-description: 
-url: ""
-baseurl: ""
-twitter_username: 
+title: SEONJIN's World
+description:'SEONJIN's World' is my blog, portfolio, and resume.
+url: "https://SeonjinJeon.github.io"
+baseurl: "" 
 default_img: 
 
 # Profile settings
-name: 
+name: Seonjin Jeon
 profile_img: 
-profile: 
+profile: "I am Seonjin-Jeon."
 social:
-  github: 
+  github: "https://github.com/SeonjinJeon"
 
 # Build settings
 markdown: kramdown
